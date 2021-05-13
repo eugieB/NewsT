@@ -24,10 +24,10 @@ Varies
 ****
 
 # Operating Systems
-Apple: Verison - MAC OS Yosemite 
-Windows 8 and 10
-Ubuntu 
-Linux (no really)
+* Apple: Verison - MAC OS Yosemite 
+* Windows 8 and 10
+* Ubuntu 
+* Linux (no really)
 
 # Requirements 
 * Laptops
